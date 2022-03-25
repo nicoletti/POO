@@ -25,7 +25,7 @@ public class Calculadora {
         this.num2 = num2;
     }
 
-    public void resultado(int opcao, float num1){
+    public void resultado(){
 
         System.out.println("\n# RESULTADO #");
         switch (opcao){
@@ -64,4 +64,4 @@ public class Calculadora {
                 break;
         }
     }
-} // Fim da classe Calculadora
+} // Fim class Calculadora

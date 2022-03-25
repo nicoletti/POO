@@ -1,3 +1,5 @@
+package exercicio1;
+
 import java.util.Scanner;
 
 public class Principal {
@@ -38,7 +40,6 @@ public class Principal {
 
         Calculadora calc = new Calculadora(opcao, num1, num2);
 
-        calc.resultado(opcao, num1);
+        calc.resultado();
     }
 } // Fim da classe Principal
-
