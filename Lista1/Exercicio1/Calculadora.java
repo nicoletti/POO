@@ -3,9 +3,9 @@ package exercicio1;
 import java.lang.Math;
 
 public class Calculadora {
-    public int opcao;
-    public float num1;
-    public float num2;
+    private int opcao;
+    private float num1;
+    private float num2;
 
     public Calculadora(int opcao, float num1, float num2){
         setOpcao(opcao);
