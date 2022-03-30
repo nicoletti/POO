@@ -1,3 +1,8 @@
+// 1. Elabore um programa orientado a objetos em linguagem de
+// programação Java com um menu e que utilize a Classe java.util.Scanner para ler
+// números Reais. A seguir, crie métodos para exibir o resultado dos métodos a seguir da
+// classe java.lang.Math: 1-Abs;2-Ceil;3-Cos;4-Exp;5-Floor;6-Log;7-Max;8-Min;9-Pow;10-Sqrt
+
 package exercicio1;
 
 import java.util.Scanner;
@@ -42,4 +47,4 @@ public class Principal {
 
         calc.resultado();
     }
-} // Fim da classe Principal
+} // Fim classe Principal

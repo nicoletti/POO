@@ -64,4 +64,4 @@ public class Calculadora {
                 break;
         }
     }
-} // Fim class Calculadora
+} // Fim classe Calculadora
