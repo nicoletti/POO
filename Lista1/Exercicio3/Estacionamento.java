@@ -12,4 +12,4 @@ public class Estacionamento {
     public void cadastrar(Veiculo veiculo){
         this.listaVeiculos.add(veiculo);
     }
-}
+}   // Fim classe Estacionamento
